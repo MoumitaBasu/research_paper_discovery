@@ -1,0 +1,14 @@
+streamlit
+requests
+pandas
+arxiv
+sentence-transformers
+numpy
+pymupdf\nlangchain-text-splitters
+\ncloudscraper
+beautifulsoup4\nlxml
+tiktoken
+curl_cffi
+pymupdf
+python-slugify
+faiss-cpu\nscikit-learn\numap-learn\nhdbscan\nbertopic

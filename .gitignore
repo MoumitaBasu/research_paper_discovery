@@ -1,0 +1,9 @@
+.venv/
+.hf_cache/
+__pycache__/
+.DS_Store
+downloaded_papers/
+*.pyc
+*.log
+.streamlit/
+.ipynb_checkpoints/
