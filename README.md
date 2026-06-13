@@ -2,6 +2,27 @@
 
 A production-grade RAG (Retrieval-Augmented Generation) pipeline for deep analysis of academic research papers. This tool combines hybrid search (Semantic + BM25) with high-performance LLMs to ground AI answers in verified research context.
 
+Check Demo here - https://synthetic-mri-inspector.streamlit.app/
+
+## Demo Screenshots
+
+### Main Dashboard
+![Main Dashboard](main_dashboard.png)
+
+### Sample Research Paper
+![Sample Research Paper](sample_research_paper.png)
+
+### Summary
+![Summary](paper_summary.png)
+
+### Q & A Chatbot
+![Q & A Chatbot](qa_chatbot.png)
+
+### Chatbot Response
+![Chatbot Response](chatbot_response.png)
+
+---
+
 ## 🚀 Features
 
 - **Hybrid Retrieval**: Combines FAISS-based semantic search with BM25 keyword matching for maximum recall.
